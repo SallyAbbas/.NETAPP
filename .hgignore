@@ -7,3 +7,4 @@ HelloCI.sln.docstates
 HelloCI.suo
 packages/
 HelloCI.Web/HelloCI.Web.csproj.user
+BuildArtifacts/
